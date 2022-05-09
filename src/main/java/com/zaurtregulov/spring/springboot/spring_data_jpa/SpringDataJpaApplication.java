@@ -1,5 +1,6 @@
 package com.zaurtregulov.spring.springboot.spring_data_jpa;
 //GitHub test
+//github test2
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
